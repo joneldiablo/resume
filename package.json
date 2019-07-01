@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.1",
+  "description": "My own resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joneldiablo/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "JD-R2",
+    "CV",
+    "va-el-diablo"
+  ],
+  "author": "joneldiablo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joneldiablo/resume/issues"
+  },
+  "homepage": "https://github.com/joneldiablo/resume#readme"
+}
